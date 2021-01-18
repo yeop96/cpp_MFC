@@ -1,11 +1,20 @@
-#C++ MFC 공부
+# C++ MFC 공부
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55243c27-6af9-4bc6-98aa-b5348b7ca3ef/searchfile.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55243c27-6af9-4bc6-98aa-b5348b7ca3ef/searchfile.png)
+### SearchFile
+![searchfile](https://user-images.githubusercontent.com/48886490/104922844-94dc2800-59de-11eb-91b4-95543515ef5c.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a226fcf8-b458-4145-b54b-6d1941a38fd9/editor.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a226fcf8-b458-4145-b54b-6d1941a38fd9/editor.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae3bf95d-0f85-4d2e-adcb-54fea9ec858b/MyPaint.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae3bf95d-0f85-4d2e-adcb-54fea9ec858b/MyPaint.png)
+### Editor
+![editor](https://user-images.githubusercontent.com/48886490/104922857-97d71880-59de-11eb-8f74-2ead6f591542.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dad9613c-30b6-479d-a59d-f64826f10386/Chat.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dad9613c-30b6-479d-a59d-f64826f10386/Chat.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dbf4b5d-b83e-4e4b-bf48-5505672649e4/bingo.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dbf4b5d-b83e-4e4b-bf48-5505672649e4/bingo.png)
+### MyPaint
+![MyPaint](https://user-images.githubusercontent.com/48886490/104922865-9a397280-59de-11eb-8922-0bb67ed1a1f8.png)
+
+
+### ChattingProgram
+![Chat](https://user-images.githubusercontent.com/48886490/104922884-9dccf980-59de-11eb-9852-6dc6ef2787d3.png)
+
+
+### NetworkBingoGame
+![bingo](https://user-images.githubusercontent.com/48886490/104922908-a4f40780-59de-11eb-8658-554be6a8ffb9.png)
